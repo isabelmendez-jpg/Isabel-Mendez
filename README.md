@@ -77,5 +77,5 @@ Some examples of what I’m adding:
 
 ## Let’s connect
 
-• LinkedIn: *[add your link here]*  
-• Email: *[add your email here]*  
+• LinkedIn: *https://www.linkedin.com/in/isabel-mendez-652b0421b/*  
+• Email: *isabelmendeez@gmail.com*  
